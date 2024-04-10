@@ -1,0 +1,48 @@
+.main_content{
+width:70%;
+background-color:aliceblue;
+overflow: hidden;
+float: left;
+
+}
+
+.main_content h4{
+    color:rgb(17, 66, 115);
+    font-weight: bold;
+}
+
+.main_content h5{
+    font-style: italic;
+    color: rgb(15, 67, 109);
+}
+.options{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    border-radius: 10px;
+    border: 1px solid;
+    height: 30px;
+
+  
+     
+}
+.main-container{
+    margin: 15px;
+   padding: 10px;
+  
+  
+
+
+     border:1px solid rgb(112, 114, 122);
+  box-shadow: 8px 8px #d7d7d7
+
+}
+.container-post-image{
+   
+    width: 100%;
+}
+.post-image {
+    max-height: 300px;
+}

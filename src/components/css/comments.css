@@ -1,0 +1,26 @@
+.comment{
+   
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+  
+    
+}
+
+.comment-metadata{
+    display: flex;
+   justify-content: space-between;
+    border-bottom: 1px solid blue;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.comment-author{
+    color: blue;
+    font-weight: bold;
+
+}
+
+.comment-created-time{
+    font-style: italic;
+    color: cornflowerblue;
+}
